@@ -1,4 +1,6 @@
+import { Exploratory } from "../Exploratory";
 import { Spacecraft } from "./Spacecraft";
+
 
 
 export class ExplorationShip extends Spacecraft implements Exploratory {

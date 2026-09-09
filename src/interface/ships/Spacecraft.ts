@@ -52,7 +52,7 @@ export abstract class Spacecraft {
             this.health = 100
         }
     }
-
+    
     public showStatus(): void {
         console.log(`
         =========== STATUS ATUAL ===============
